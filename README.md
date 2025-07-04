@@ -45,4 +45,3 @@ This project helped me understand the importance of structure in basic HTML page
 
 ---
 
-> ✨ “One tag at a time, one step closer to becoming a web developer 💅”
